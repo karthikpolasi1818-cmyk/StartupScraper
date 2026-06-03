@@ -1,12 +1,15 @@
-## Sample Output
+## Advanced Scraper
 
-| Headline | Link |
-|----------|------|
-| Example News | https://example.com |
+Features:
 
-## Future Improvements
+- Multi-page scraping
+- Structured data extraction
+- Data cleaning
+- Duplicate removal
+- CSV export
+- JSON export
 
-- Multi-page scraping (pagination)
-- Startup directory scraping
-- Investor data extraction
-- Database integration
+Output:
+
+- quotes.csv
+- quotes.json
